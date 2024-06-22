@@ -1,5 +1,4 @@
 # QUIZ-Application
-# Online Quiz Application
 
 ## Description
 The Online Quiz Application is a Java-based platform that allows users to take quizzes on various topics. It includes features for user authentication, quiz management, and progress tracking, providing immediate feedback on quiz performance. The application uses JavaFX for a user-friendly interface and MySQL for data persistence.
